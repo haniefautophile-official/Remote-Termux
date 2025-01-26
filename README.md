@@ -9,7 +9,10 @@ Fungsi untuk meremote termux ke PC menggunakan cmd, mobaxtream, putty dll tanpa 
 > Command install tools from termux
   
 ```bash
-
+pkg install git
+git clone https://github.com/haniefautophile-official/Remote-Termux.git
+cd Remote-Termux
+bash run.sh
 whoami
 psswd
 ifconfig
