@@ -1,5 +1,5 @@
 # Remote-Termux
-Fungsi untuk meremote termux ke PC menggunakan cmd, mobaxtream, putty dll
+Fungsi untuk meremote termux ke PC menggunakan cmd, mobaxtream, putty dll tanpa harus menginstall bluestack android di PC.
 <details open>
   <summary><strong><h2>How to Install</h2></strong></summary>
   
